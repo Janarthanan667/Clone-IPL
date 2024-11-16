@@ -1,15 +1,18 @@
 # IPL-Clone
 
+# IPL-Clone
 IPL Website (HTML & CSS)
-A simple IPL-themed website developed using HTML and CSS, designed to showcase information about teams, players, and matches in a visually appealing way.
+A simple IPL-themed website developed using HTML and CSS, designed to showcase information about teams, players and pointtable , videos and matches in a visually appealing way.
 
 Features:
 
 Home page with IPL-themed banners.
 
-Team section with player details and stats.
+Team section with player details and registration
 
-Match schedules and results displayed in tabular format.
+video displayed by clicking play button.
+
+image slidder can be implement
 
 Responsive design for better viewing across devices.
 
